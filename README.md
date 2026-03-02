@@ -36,7 +36,7 @@ CODECRAFT_GA_05/
 ├── GA_05.ipynb         # Main Colab notebook
 ├── content.jpg         # Content Image
 ├── style.jpg           # Style image
-├── stylized_output.jpg # Output image
+├── stylized_output.png # Output image
 └── README.md           # This file
 ```
 
